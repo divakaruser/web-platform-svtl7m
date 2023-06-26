@@ -49,7 +49,7 @@ header a {
   text-transform: uppercase;
   text-decoration: none;
   transition: none 200ms ease-out;
-  transition-property: color, background;
+  transition-property: color;
 }
 
 header a:hover {
